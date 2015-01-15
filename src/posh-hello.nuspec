@@ -5,9 +5,9 @@
     <version>__MAJORVERSION__.__MINORVERSION__.__REVISION__</version>
     <authors>Alexander T. Bussmann</authors>
     <owners>Alexander T. Bussmann</owners>
-    <licenseUrl>http://github.com/atbussman/posh-hello/LICENSE.TXT</licenseUrl>
-    <projectUrl>http://github.com/atbussma/posh-hello</projectUrl>
-    <iconUrl>http://github.com/atbussma/posh-hello</iconUrl>
+    <licenseUrl>https://github.com/atbussma/posh-hello/blob/master/LICENSE.TXT</licenseUrl>
+    <projectUrl>https://github.com/atbussma/posh-hello</projectUrl>
+    <iconUrl>https://github.com/atbussma/posh-hello</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>PowerShell Hello World Module</description>
     <releaseNotes>posh-hello Release Notes for this version of the package.</releaseNotes>
